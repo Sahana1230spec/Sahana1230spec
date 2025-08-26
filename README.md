@@ -34,8 +34,6 @@ currently working on ai projects and web apps that actually work (shocking, i kn
 
 ### 📊 GitHub Stats
 
-![Sahana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -66,11 +64,6 @@ Quadcopter simulation with manual controls
 
 ---
 
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahana1230spec&theme=radical&hide_border=true)
-
----
-
 ### 🤝 Let's Connect!
 - 💼 [LinkedIn](your-linkedin-url)
 - 🌐 [Portfolio](your-portfolio-url)
@@ -79,5 +72,3 @@ Quadcopter simulation with manual controls
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge)
 
 ---
-
-*"Code is poetry written in logic"* ✨
