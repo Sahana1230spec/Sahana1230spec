@@ -65,9 +65,9 @@ Quadcopter simulation with manual controls
 ---
 
 ### 🤝 Let's Connect!
-- 💼 [LinkedIn](your-linkedin-url)
-- 🌐 [Portfolio](your-portfolio-url)
-- 📧 [Email](mailto:your-email)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahana12/)
+- 🌐 [Portfolio](https://preview--sahana-verse-portal.lovable.app/)
+- 📧 [Email](sahanaraghu479@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge)
 
