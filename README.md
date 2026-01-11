@@ -8,14 +8,14 @@ Building intelligent systems at the intersection of robotics, deep learning, and
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</div>
+<a href="https://github.com/Sahana1230spec">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
+</p>
 
 ---
 
