@@ -1,37 +1,20 @@
-# Sahana R
+# hi, i'm sahana ✨
 
 **AI/ML Engineer & Full-Stack Developer** | Bengaluru, India
 
 Building intelligent systems at the intersection of robotics, deep learning, and real-world impact.
 
----
-
-## 📊 GitHub Statistics
-
-<a href="https://github.com/Sahana1230spec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+**let's connect:** sahanaraghu479@gmail.com | [linkedin](https://www.linkedin.com/in/sahana12/) | [google scholar](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
 
 ---
 
-## About Me
+### 📊 GitHub Stats
 
-I'm a researcher and engineer focused on autonomous navigation, reinforcement learning, and applied AI. My work spans drone control systems, urban analytics platforms, and full-stack applications—combining rigorous ML engineering with practical deployment.
-
-**Current Focus:**
-- Deep reinforcement learning for autonomous systems
-- SLAM-informed navigation algorithms
-- Production-grade ML deployment
-- Open source contributions
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,6 +27,7 @@ I'm a researcher and engineer focused on autonomous navigation, reinforcement le
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -58,6 +42,7 @@ I'm a researcher and engineer focused on autonomous navigation, reinforcement le
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Webots](https://img.shields.io/badge/Webots-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 
 **Tools & Platforms**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -67,9 +52,9 @@ I'm a researcher and engineer focused on autonomous navigation, reinforcement le
 
 ---
 
-## 🔥 Featured Projects
+### 🔥 Featured Projects
 
-### 🚁 [Deep Reinforcement Learning for Autonomous Drone Navigation](https://github.com/Sahana1230spec/deep-rl-drone-navigation)
+#### 🚁 [Deep Reinforcement Learning for Autonomous Drone Navigation](https://github.com/Sahana1230spec/deep-rl-drone-navigation)
 Advanced RL framework for UAV navigation in 3D simulation environments
 - **Tech:** Python, PyTorch, Stable-Baselines3, AirSim, OpenAI Gym
 - **Features:** 
@@ -78,9 +63,7 @@ Advanced RL framework for UAV navigation in 3D simulation environments
   - Reward shaping and trajectory optimization
   - Real-time visualization and performance metrics
 
----
-
-### 🚦 [UrbanSafe-AI – Accident Risk Prediction & Mobility Analytics](https://github.com/Sahana1230spec/UrbanSafe-AI)
+#### 🚦 [UrbanSafe-AI – Accident Risk Prediction & Mobility Analytics](https://github.com/Sahana1230spec/UrbanSafe-AI)
 ML-powered platform for urban traffic safety analysis and risk prediction
 - **Tech:** Python, scikit-learn, Streamlit, Plotly, Pandas
 - **Features:**
@@ -89,9 +72,7 @@ ML-powered platform for urban traffic safety analysis and risk prediction
   - Interactive real-time dashboard
   - Geospatial hotspot mapping and temporal analysis
 
----
-
-### 👗 [FitGenie – AI-Powered Outfit Generator](https://github.com/Sahana1230spec/FitGenie)
+#### 👗 [FitGenie – AI-Powered Outfit Generator](https://github.com/Sahana1230spec/FitGenie)
 Full-stack AI application for personalized fashion recommendations
 - **Tech:** React, Node.js, TailwindCSS, AI APIs
 - **Features:** 
@@ -100,9 +81,7 @@ Full-stack AI application for personalized fashion recommendations
   - Image upload and processing
   - Responsive, modern UI
 
----
-
-### ✈️ [Travel Agent Chatbot](https://github.com/Sahana1230spec/Travel_Agent_Chatbot)
+#### ✈️ [Travel Agent Chatbot](https://github.com/Sahana1230spec/Travel_Agent_Chatbot)  
 NLP-powered conversational assistant for travel planning
 - **Tech:** Python, Flask, spaCy
 - **Features:** 
@@ -111,9 +90,7 @@ NLP-powered conversational assistant for travel planning
   - Contextual trip planning
   - Intent recognition and entity extraction
 
----
-
-### 🚁 [Drone Navigation Simulation](https://github.com/Sahana1230spec/drone-navigation-webots)
+#### 🚁 [Drone Navigation Simulation](https://github.com/Sahana1230spec/drone-navigation-webots)
 Physics-based quadcopter control system in Webots
 - **Tech:** C, Webots, Embedded Systems
 - **Features:** 
@@ -122,9 +99,7 @@ Physics-based quadcopter control system in Webots
   - 3D environment simulation
   - Keyboard-based navigation interface
 
----
-
-### 📊 [Multi-Utility Dashboard](https://github.com/Sahana1230spec/Multi-Utility-Dashboard)
+#### 📊 [Multi-Utility Dashboard](https://github.com/Sahana1230spec/Multi-Utility-Dashboard)
 Comprehensive web dashboard integrating multiple API services
 - **Tech:** Node.js, EJS, Express, REST APIs
 - **Features:**
@@ -136,7 +111,7 @@ Comprehensive web dashboard integrating multiple API services
 
 ---
 
-## 📚 Research Publications
+### 📚 Research Publications
 
 **SLAM-Informed Reinforcement Learning for Autonomous Drone Navigation**  
 *Under Review (2025)*  
@@ -144,11 +119,20 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 **Computational Pharmacology Approaches to Parkinson's Disease**  
 *International Immunopharmacology (2024)*  
-[View on Google Scholar](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
+[View Publication](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
 
 ---
 
-## 💡 Core Competencies
+### 🎯 Current Focus
+
+- Deep reinforcement learning for autonomous systems
+- SLAM-informed navigation algorithms
+- Production-grade ML deployment
+- Contributing to open source projects
+
+---
+
+### 💡 Core Competencies
 
 - Deep Reinforcement Learning (PPO, SAC, TD3)
 - Computer Vision & Sensor Fusion
@@ -161,19 +145,13 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 ---
 
-## 🤝 Connect With Me
+### 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana12/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://preview--sahana-verse-portal.lovable.app/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanaraghu479@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahana12/)
+- 🌐 [Portfolio](https://preview--sahana-verse-portal.lovable.app/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
+- 📧 [Email](mailto:sahanaraghu479@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge)
 
 ---
-
-<p align="center">
-  <i>Building systems that bridge research and real-world deployment.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-</p>
