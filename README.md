@@ -10,7 +10,7 @@ Building intelligent systems at the intersection of robotics, deep learning, and
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true" />
 
 ---
 
