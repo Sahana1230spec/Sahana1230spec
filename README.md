@@ -4,9 +4,15 @@
 
 Building intelligent systems at the intersection of robotics, deep learning, and real-world impact.
 
-**Let's connect:** sahanaraghu479@gmail.com | [LinkedIn](https://www.linkedin.com/in/sahana12/) | [Google Scholar](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge)
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ---
 
@@ -139,33 +145,6 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-## GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahana1230spec&theme=redical&hide_border=true&area=true)
-
----
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahana1230spec&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## Core Competencies
 
 - Deep Reinforcement Learning (PPO, SAC, TD3)
@@ -181,14 +160,17 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 ## Connect With Me
 
-💼 **LinkedIn:** [linkedin.com/in/sahana12](https://www.linkedin.com/in/sahana12/)  
-🌐 **Portfolio:** [sahana-verse-portal.lovable.app](https://preview--sahana-verse-portal.lovable.app/)  
-🎓 **Google Scholar:** [View Profile](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)  
-📧 **Email:** sahanaraghu479@gmail.com  
-💻 **GitHub:** [github.com/Sahana1230spec](https://github.com/Sahana1230spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana12/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://preview--sahana-verse-portal.lovable.app/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=kZtdM_sAAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahanaraghu479@gmail.com)
 
 ---
 
 <p align="center">
   <i>Building systems that bridge research and real-world deployment.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sahana1230spec&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
