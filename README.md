@@ -8,11 +8,14 @@ Building intelligent systems at the intersection of robotics, deep learning, and
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sahana1230spec&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahana1230spec&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahana1230spec&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -28,7 +31,7 @@ I'm a researcher and engineer focused on autonomous navigation, reinforcement le
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +67,7 @@ I'm a researcher and engineer focused on autonomous navigation, reinforcement le
 
 ---
 
-## Featured Projects
+## 🔥 Featured Projects
 
 ### 🚁 [Deep Reinforcement Learning for Autonomous Drone Navigation](https://github.com/Sahana1230spec/deep-rl-drone-navigation)
 Advanced RL framework for UAV navigation in 3D simulation environments
@@ -133,7 +136,7 @@ Comprehensive web dashboard integrating multiple API services
 
 ---
 
-## Research Publications
+## 📚 Research Publications
 
 **SLAM-Informed Reinforcement Learning for Autonomous Drone Navigation**  
 *Under Review (2025)*  
@@ -145,7 +148,7 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 ---
 
-## Core Competencies
+## 💡 Core Competencies
 
 - Deep Reinforcement Learning (PPO, SAC, TD3)
 - Computer Vision & Sensor Fusion
@@ -158,7 +161,7 @@ Integrating spatial mapping with deep RL for improved UAV decision-making in unk
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahana12/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://preview--sahana-verse-portal.lovable.app/)
